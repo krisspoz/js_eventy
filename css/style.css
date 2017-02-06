@@ -1,0 +1,44 @@
+body {
+	padding-top: 50px;
+}
+
+nav img {
+	height: 50px;
+}
+
+[class*="example"] {
+  min-height: 500px;
+  background-size: cover;
+  background-position: center;
+}
+
+section {
+	margin-top: 40px;
+}
+
+section .example-1 {
+	background-image: url(https://images.pexels.com/photos/76971/fighter-jet-fighter-aircraft-f-16-falcon-aircraft-76971.jpeg?w=940&h=650&auto=compress&cs=tinysrgb);
+}
+
+section .example-2 {
+	background-image: url(https://images.pexels.com/photos/40753/military-raptor-jet-f-22-airplane-40753.jpeg?w=940&h=650&auto=compress&cs=tinysrgb);
+}
+
+section .example-3 {
+	background-image: url(https://images.pexels.com/photos/9670/sky-flying-plane-outdoors.jpg?w=940&h=650&auto=compress&cs=tinysrgb);
+}
+
+section .example-4 {
+	background-image: url(https://images.pexels.com/photos/69827/aircraft-qantas-air-new-zealand-lan-chile-69827.jpeg?w=940&h=650&auto=compress&cs=tinysrgb);
+}
+
+section .example-5 {
+	background-image: url(https://images.pexels.com/photos/33326/airport-aircraft-departure-travel.jpg?w=940&h=650&auto=compress&cs=tinysrgb);
+}
+
+[class="last"] {
+	margin-bottom: 150px;
+}
+
+
+
